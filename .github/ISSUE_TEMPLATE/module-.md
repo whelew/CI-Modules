@@ -1,7 +1,7 @@
 ---
-name: 'Module: <Module Name>'
+name: 'Module:'
 about: Module to be completed.
-title: ''
+title: 'Module: <Module Name>'
 labels: ''
 assignees: ''
 
